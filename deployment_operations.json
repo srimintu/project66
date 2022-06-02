@@ -1,0 +1,48 @@
+[
+  {
+    "id": "/subscriptions/eba4b12f-4840-46a9-b6a6-2fdda4b38b0c/resourceGroups/childproject66_group-be70/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-fcad2fbf-8982/operations/BAE6385AE52DE12E",
+    "operationId": "BAE6385AE52DE12E",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-06-02T07:18:08.475323Z",
+      "duration": "PT1M1.166609S",
+      "trackingId": "fd2f19aa-8000-4c9c-9357-0ddca4198b64",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/eba4b12f-4840-46a9-b6a6-2fdda4b38b0c/resourceGroups/childproject66_group-be70/providers/Microsoft.Web/sites/childproject66",
+        "resourceType": "Microsoft.Web/sites",
+        "resourceName": "childproject66"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/eba4b12f-4840-46a9-b6a6-2fdda4b38b0c/resourceGroups/childproject66_group-be70/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-fcad2fbf-8982/operations/10AB3B63A3F28751",
+    "operationId": "10AB3B63A3F28751",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-06-02T07:17:45.5542809Z",
+      "duration": "PT38.2455669S",
+      "trackingId": "edbf83d1-ed19-464b-a23e-c267404497b8",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/eba4b12f-4840-46a9-b6a6-2fdda4b38b0c/resourceGroups/childproject66_group-be70/providers/Microsoft.Web/serverfarms/ASP-childproject66groupbe70-a6f6",
+        "resourceType": "Microsoft.Web/serverfarms",
+        "resourceName": "ASP-childproject66groupbe70-a6f6"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/eba4b12f-4840-46a9-b6a6-2fdda4b38b0c/resourceGroups/childproject66_group-be70/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-fcad2fbf-8982/operations/08585474526628932550",
+    "operationId": "08585474526628932550",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-06-02T07:18:08.8352586Z",
+      "duration": "PT1M1.5265446S",
+      "trackingId": "a92eb413-b450-4cfd-a9cf-b71b9fa823f5",
+      "statusCode": "OK"
+    }
+  }
+]
